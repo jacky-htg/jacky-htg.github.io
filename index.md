@@ -2,7 +2,7 @@
 
 ## Alam Raya Sekolahku
 
-* [Beranda](index.md)
+* [Beranda]()
 * [Machine Learning](machine-learning/regression.md)
 
 Welcome to my paradise
